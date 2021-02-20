@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate-2021",
+  "name": "webpack-react-boilerplate",
   "version": "1.0.0",
-  "description": "Webpack, React, Express, Boilerplate",
+  "description": "webpack react boilerplate",
   "main": "index.js",
   "author": "Scott Jason",
   "license": "ISC",
